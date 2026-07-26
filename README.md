@@ -1,8 +1,7 @@
 ## William Rumph
 
-SoC security architect. I build the infrastructure that keeps autonomous coding
-agents inside their boundaries — containment, governance, and evidence you can
-audit after the fact.
+SoC security architect. I build infrastructure that keeps teams aligned with
+their AI, and contains that AI when they aren't.
 
 Founder of [AlphaZede](https://alphazede.com). Austin, TX.
 
