@@ -21,7 +21,7 @@ bearing start
 **[BRAN](https://github.com/alphazede/bran)** — local repository intelligence.
 Deterministic scanning, focused evidence packets, validation, and offline
 browsing. Headless for scripts and agent workflows, with an optional terminal
-interface for reading. Scanning and validation work without an agent account.
+interface for reading. Scanning and validation need no agent account.
 
 Both run on your machine.
 
