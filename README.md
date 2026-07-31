@@ -26,5 +26,5 @@ Both run on your machine.
 
 ### Elsewhere
 
-[alphazede.com](https://alphazede.com) ·
+[alphazede.com](https://alphazede.com) (is currently getting redesigned)·
 [LinkedIn](https://www.linkedin.com/in/will-rumph/)
