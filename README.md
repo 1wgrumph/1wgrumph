@@ -54,7 +54,7 @@ bearing start
 
 # 🏛️ Architecture
 
-Defining trust boundaries, security requirements, and threat models for hardware-rooted security — and reviewing what silicon does with them.
+Defining trust boundaries, security requirements, and threat models for hardware-rooted security — and reviewing what silicon does with them. The work spans hardware root of trust, isolation and zero trust architecture, confidential computing, and specifications realized in SystemVerilog and Verilog.
 
 ### Silicon Platforms
 ![x86](https://img.shields.io/badge/x86-%233E2723.svg?style=for-the-badge&logo=amd&logoColor=white)
